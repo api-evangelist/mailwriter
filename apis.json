@@ -1,0 +1,59 @@
+{
+    "name": "MailWriter",
+    "description": "Het versturen van kaarten, brieven, rekeningen, rapporten en ander drukwerk was nog nooit zo gemakkelijk, kosteneffici\u00ebnt en milieuvriendelijk. Met MailWriter verzendt u post via het internet en tegen het laagste tarief van Nederland.    Upload uw post...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1872-mailwriter.jpg",
+    "tags": [
+        "agencies",
+        "api lifeycle",
+        "cloud",
+        "have api",
+        "letters"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mailwriter\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MailWriter",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1872-mailwriter.jpg",
+            "humanURL": "http:\/\/apidoc.mailwriter.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mailwriter-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mailwriter-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mailwriter"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mailwriter"
+        },
+        {
+            "type": "Email",
+            "url": "support@mailwriter.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mailwriterBV"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apidoc.mailwriter.com\/"
+        }
+    ]
+}
